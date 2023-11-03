@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kartik-ahuja.github.io/MLM/static/css/main.52434249.css",
+    "main.js": "/kartik-ahuja.github.io/MLM/static/js/main.1993cb76.js",
+    "static/js/787.cdfe00ef.chunk.js": "/kartik-ahuja.github.io/MLM/static/js/787.cdfe00ef.chunk.js",
+    "index.html": "/kartik-ahuja.github.io/MLM/index.html",
+    "main.52434249.css.map": "/kartik-ahuja.github.io/MLM/static/css/main.52434249.css.map",
+    "main.1993cb76.js.map": "/kartik-ahuja.github.io/MLM/static/js/main.1993cb76.js.map",
+    "787.cdfe00ef.chunk.js.map": "/kartik-ahuja.github.io/MLM/static/js/787.cdfe00ef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52434249.css",
+    "static/js/main.1993cb76.js"
+  ]
+}
